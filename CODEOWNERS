@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @aflaht
+/src/backend/database.py      @aflaht
+/src/backend/routers/auth.py  @aflaht
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @aflaht
